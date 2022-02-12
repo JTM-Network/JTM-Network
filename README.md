@@ -1,7 +1,7 @@
 # JTM-Network
-
+<hr/>
 ## Introduction
-
+<hr/>
 The JTM Network was made to host personal projects that solve business problems. Using microservice architecture I can add features to my website without affecting the other services, and provides scalability when necessary.
 
 ## Tech Stack
@@ -32,7 +32,7 @@ The JTM Network was made to host personal projects that solve business problems.
 - Hosting: Google Cloud Platform
 
 ## Services
-
+<hr/>
 ### Minecraft
 
 Currently for minecraft products/services I have 3 microservices:
