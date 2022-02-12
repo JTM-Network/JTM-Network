@@ -1,6 +1,3 @@
-# JTM-Network
----
-
 ## Introduction
 ---
   
