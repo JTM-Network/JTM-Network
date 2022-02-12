@@ -1,5 +1,6 @@
 # JTM-Network
 <hr/>
+
 ## Introduction
 
 <hr/>
@@ -35,6 +36,7 @@ The JTM Network was made to host personal projects that solve business problems.
 ## Services
 
 <hr/>
+
 ### Minecraft
 
 Currently for minecraft products/services I have 3 microservices:
