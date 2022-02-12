@@ -31,6 +31,7 @@ The JTM Network was made to host personal projects that solve business problems.
 - Kubernetes
 - Hosting: Google Cloud Platform
 
+---
 ## Services
 ---
 
